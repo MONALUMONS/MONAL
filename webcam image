@@ -1,2 +1,5 @@
+This notebook shows how to use a USB web camera attached to the Pynq-Z1 board. An image is captured using fswebcam. 
+The image can then be manipulated using the Python Image Library (Pillow).
+
 open this address to see the results
 http://10.10.10.91:9090/notebooks/Monal/webcam%20image.ipynb
